@@ -224,3 +224,6 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/emacs,python
+
+# Don't track ipynb
+**/*.ipynb
